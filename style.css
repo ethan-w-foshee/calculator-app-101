@@ -2,4 +2,31 @@ body {
   margin: 20% auto;
   width: 50%;
   height: 75%;
+  background-color: aliceblue;
+  height: 100vw;
+  display: block;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 150%;
+  text-align: center;
+}
+
+.calculator {
+  background-color: rgb(195, 217, 236);
+}
+
+.buttons {
+  text-align: center;
+}
+
+button{
+  text-align: center;
+  font-size: 28px;
+  padding: 14px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.square {
+  background-color: black;
+  width: 100%;
+  height: 1px;
 }
